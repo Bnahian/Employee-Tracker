@@ -7,3 +7,9 @@ This Employee Tracker is a command line application intended to be used by a bus
 ## User story ##
 --------------------------------------------------------------------------------------------
 AS A business owner I WANT to be able to view and manage the departments, roles, and employees in my company SO THAT I can organize and plan my business
+
+## Installations ##
+--------------------------------------------------------------------------------------------------
+1. npm init : Create package.json file and add dependencies and version once added.
+2. npm i inquirer@8.2.4 : Install inquirer
+
