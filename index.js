@@ -35,7 +35,7 @@ function empprompt(){
                  'View all Employees',
                  'Add a department',
                  'Add a role',
-                 'Remove Employee',
+                 
                  'Add an employee',
                  'Update an employee role',
                  'Exit']
@@ -62,11 +62,7 @@ function empprompt(){
 
             case "Add a role" :
                 addRole();
-                break;
-
-            case "Remove Employee" :
-                 removeEmployee();
-                 break;    
+                break;    
 
             case "Add an employee" :
                 addEmployee();
