@@ -10,6 +10,6 @@ AS A business owner I WANT to be able to view and manage the departments, roles,
 
 ## Installations ##
 --------------------------------------------------------------------------------------------------
-..* npm init : Create package.json file and add dependencies and version once added.
-2. npm i inquirer@8.2.4 : Install inquirer
+- npm init : Create package.json file and add dependencies and version once added.
+- npm i inquirer@8.2.4 : Install inquirer
 
