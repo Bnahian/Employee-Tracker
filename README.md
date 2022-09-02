@@ -12,4 +12,18 @@ AS A business owner I WANT to be able to view and manage the departments, roles,
 --------------------------------------------------------------------------------------------------
 - npm init : Create package.json file and add dependencies and version once added.
 - npm i inquirer@8.2.4 : Install inquirer
+- npm i mysql2 : To install mysql package to work with mysql database.
+- npm i console.table : To print mysql rows to the console.
+
+## Video link ##
+--------------------------------------------------------------------------------------------------------------
+
+
+## Built With ## 
+--------------------------------------------------------------------------------------------------------------------
+- HTML
+- CSS
+- JavaScript
+- node.js
+- mysql database
 
