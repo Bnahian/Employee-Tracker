@@ -35,6 +35,7 @@ function empprompt(){
                  'View all Employees',
                  'Add a department',
                  'Add a role',
+                 'Remove Employee',
                  'Add an employee',
                  'Update an employee role',
                  'Exit']
@@ -62,6 +63,10 @@ function empprompt(){
             case "Add a role" :
                 addRole();
                 break;
+
+            case "Remove Employee" :
+                 removeEmployee();
+                 break;    
 
             case "Add an employee" :
                 addEmployee();
@@ -384,7 +389,7 @@ function addEmployee()
 };
 
 
-//retuen all employess first and last name
+//return all employess first and last name
 
 function selectEmployee() {
     var empArr = [];
